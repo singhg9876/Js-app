@@ -1,0 +1,20 @@
+//Install
+
+mkdir my - api
+cd my - api
+npm init
+
+
+
+npm install express body - parser--save
+
+
+
+npm install passport passport-jwt jwt-simple --save
+
+
+
+
+done(null, {
+    id: user.id
+});
